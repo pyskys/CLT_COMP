@@ -1,0 +1,30 @@
+Mỗi người làm trên nhánh người đó.
+Định kỳ merger vào nhánh master.
+
+Đăng HH: nhánh DANG_HH
+Phú HL: nhánh PHU_HL
+
+
+
+GIT command line:
+
+//Clone project
+git clone https://github.com/pyskys/CLT_COMP.git
+
+//Tạo branch
+git branch ten_branch
+
+//Thêm dữ liệu
+git add abc
+
+//Checkout nhánh
+git checkout ten_branch
+
+//Commit dữ liệu
+git commit -m "Your comment"
+
+//Push dữ liệu
+git push origin your-branch
+
+//Merge dữ liệu
+git merge ten_branch
