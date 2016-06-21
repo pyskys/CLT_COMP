@@ -1,5 +1,5 @@
-Mỗi người làm trên nhánh người đó.
-Định kỳ merger vào nhánh master.
+﻿Mỗi người làm trên nhánh người đó.
+Định kỳ cuối ngày Phú Lê merger data vào nhánh CTL_COMP_MASTER.
 
 Đăng HH: nhánh DANG_HH
 Phú HL: nhánh PHU_HL
@@ -13,6 +13,9 @@ git clone https://github.com/pyskys/CLT_COMP.git
 
 //Tạo branch
 git branch ten_branch
+
+//Xem hiện tại là branch nào
+git branch
 
 //Thêm dữ liệu
 git add abc
