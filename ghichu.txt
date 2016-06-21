@@ -29,5 +29,8 @@ git commit -m "Your comment"
 //Push dữ liệu
 git push origin your-branch
 
+//Update dữ liệu
+git pull
+
 //Merge dữ liệu
 git merge ten_branch
